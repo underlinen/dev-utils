@@ -1,7 +1,7 @@
 {
   "name": "@underlinen/dev-utils",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "underlinen development utils",
   "main": "lib/index.js",
   "repository": "git@github.com:underlinen/dev-utils.git",
