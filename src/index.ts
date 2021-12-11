@@ -1,1 +1,5 @@
-export { default as print } from './print.js';
+import print from './print';
+
+export {
+  print,
+};
