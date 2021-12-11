@@ -1,7 +1,6 @@
 {
   "name": "@underspare/dev-utils",
-  "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "development utils",
   "main": "lib/index.js",
   "repository": "git@github.com:underspare/dev-utils.git",
@@ -12,6 +11,9 @@
     "clean": "rm -rf lib",
     "prepublishOnly": "npm run build"
   },
+  "files": [
+    "lib"
+  ],
   "license": "MIT",
   "dependencies": {
     "@types/node": "^16.11.12",
