@@ -1,10 +1,10 @@
 {
-  "name": "@underlinen/dev-utils",
+  "name": "@underspare/dev-utils",
   "type": "module",
-  "version": "0.0.3",
-  "description": "underlinen development utils",
+  "version": "0.0.0",
+  "description": "development utils",
   "main": "lib/index.js",
-  "repository": "git@github.com:underlinen/dev-utils.git",
+  "repository": "git@github.com:underspare/dev-utils.git",
   "author": "shanejix <shanejix@hotmail.com>",
   "scripts": {
     "dev": "tsc -w",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^16.11.12",
-    "chalk": "^5.0.0",
+    "chalk": "^4.0.0",
     "typescript": "^4.5.2"
   }
 }
